@@ -1,2 +1,4 @@
 This is something new!
 uyugjygyjtfyjtfytf
+commit is update of project means whats your status means if you complete the app we 
+can commit "app completed"
